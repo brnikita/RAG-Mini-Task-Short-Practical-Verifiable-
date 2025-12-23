@@ -1,0 +1,144 @@
+[
+  {
+    "question": "What are 3 tactical reasons City might control the game, and 2 ways United can hurt them?",
+    "retrieval": {
+      "k": 5,
+      "retrieved_docs": [
+        {
+          "doc_id": "doc04",
+          "score": 0.5726
+        },
+        {
+          "doc_id": "doc03",
+          "score": 0.5612
+        },
+        {
+          "doc_id": "doc09",
+          "score": 0.5353
+        },
+        {
+          "doc_id": "doc02",
+          "score": 0.5345
+        },
+        {
+          "doc_id": "doc05",
+          "score": 0.5316
+        }
+      ]
+    },
+    "answer": {
+      "answer": "City might control the game due to their possession-based tactics, which forces turnovers in wide areas through press triggers on sideways passes (doc04). Additionally, City's dominant possession and high chance creation from half-spaces suggest they can maintain control with their high-intensity pressing (doc02). Furthermore, City's 3-2-4-1 formation allows for quick transitions via the left wing, which could be exploited by United if they can neutralize this aspect of City's game.",
+      "citations": [
+        {
+          "doc_id": "doc04",
+          "quote": "press triggers on sideways passes; forces turnovers in wide areas."
+        },
+        {
+          "doc_id": "doc02",
+          "quote": "Dominant possession, high chance creation from half-spaces."
+        },
+        {
+          "doc_id": "doc03",
+          "quote": "quick transitions via left wing."
+        }
+      ],
+      "confidence": 0.8
+    }
+  },
+  {
+    "question": "Summarize injuries and availability for both teams. If there is conflicting information, explain how you resolve it.",
+    "retrieval": {
+      "k": 5,
+      "retrieved_docs": [
+        {
+          "doc_id": "doc08",
+          "score": 0.5338
+        },
+        {
+          "doc_id": "doc07",
+          "score": 0.4134
+        },
+        {
+          "doc_id": "doc09",
+          "score": 0.4031
+        },
+        {
+          "doc_id": "doc05",
+          "score": 0.3975
+        },
+        {
+          "doc_id": "doc03",
+          "score": 0.3667
+        }
+      ]
+    },
+    "answer": {
+      "answer": "Injuries and availability for both teams:\n\nCity: Stones probable, Grealish out.\nUnited: Varane doubtful (muscle), Shaw out, Mount questionable.\nYouth CB expected to start if Varane misses.",
+      "citations": [
+        {
+          "doc_id": "doc08",
+          "quote": "Stones probable. Grealish out."
+        },
+        {
+          "doc_id": "doc07",
+          "quote": "Varane doubtful (muscle), Shaw out, Mount questionable."
+        }
+      ],
+      "confidence": 1.0
+    }
+  },
+  {
+    "question": "Give 5 commentator talking points for this match, each grounded in evidence.",
+    "retrieval": {
+      "k": 5,
+      "retrieved_docs": [
+        {
+          "doc_id": "doc09",
+          "score": 0.5009
+        },
+        {
+          "doc_id": "doc02",
+          "score": 0.359
+        },
+        {
+          "doc_id": "doc01",
+          "score": 0.352
+        },
+        {
+          "doc_id": "doc05",
+          "score": 0.3088
+        },
+        {
+          "doc_id": "doc03",
+          "score": 0.2513
+        }
+      ]
+    },
+    "answer": {
+      "answer": "Here are five commentator talking points for this match:\n\n1. Manchester City's high chance creation from half-spaces could lead to scoring opportunities.\n\n2. Manchester United struggles vs high press, but set-pieces have improved recently.\n\n3. The game may see a midfield battle between City and United, with both teams looking to control possession.\n\n4. Manchester City's ability to break low/mid block could be key in this match, given their dominant possession in previous games.\n\n5. Manchester United's defensive stability is declining, particularly with Casemiro's performance being a concern.",
+      "citations": [
+        {
+          "doc_id": "doc02",
+          "quote": "Goals scored 12, conceded 3."
+        },
+        {
+          "doc_id": "doc05",
+          "quote": "Casemiro: defensive stability declining."
+        },
+        {
+          "doc_id": "doc09",
+          "quote": "how City breaks low/mid block."
+        },
+        {
+          "doc_id": "doc02",
+          "quote": "Dominant possession, high chance creation from half-spaces."
+        },
+        {
+          "doc_id": "doc01",
+          "quote": "Struggles vs high press, but set-pieces improved."
+        }
+      ],
+      "confidence": 0.8
+    }
+  }
+]
